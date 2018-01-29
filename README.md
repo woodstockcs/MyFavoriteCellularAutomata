@@ -15,8 +15,9 @@ To prepare for your work on this project, do the following before you begin codi
 - Have you finished all the steps listed in _Background_ above? If yes, then grab the starter code [here](https://raw.githubusercontent.com/woodstockcs/MyFavoriteCellularAutomata/master/MyFavoriteCellularAutomata.pde) and paste it into a new sketch in Processing.
 - Complete the TODOs in the following methods, making sure to read any javadoc comments above the method headers:
   - constructor `CellularAutomata`
-  - `setRuleNumber`
-  - `show` (note there are 2 TODOs in this one, one mandatory and one optional)
+
 
 ~~### Phase 2~~
+  ~~- `setRuleNumber`~~
+  ~~- `show` (note there are 2 TODOs in this one, one mandatory and one optional)~~
 ~~Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!~~
