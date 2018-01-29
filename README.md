@@ -18,5 +18,5 @@ To prepare for your work on this project, do the following before you begin codi
   - `setRuleNumber`
   - `show` (note there are 2 TODOs in this one, one mandatory and one optional)
 
-### Phase 2
-Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
+~~### Phase 2~~
+~~Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!~~
