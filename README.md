@@ -16,8 +16,7 @@ To prepare for your work on this project, do the following before you begin codi
 - Complete the TODOs in the following methods, making sure to read any javadoc comments above the method headers:
   - constructor `CellularAutomata`
 
+### Phase 2
+Complete the TODOs in the `setRuleNumber` and the `show` methods.
 
-~~### Phase 2~~
-  ~~- `setRuleNumber`~~
-  ~~- `show` (note there are 2 TODOs in this one, one mandatory and one optional)~~
-~~Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!~~
+Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
