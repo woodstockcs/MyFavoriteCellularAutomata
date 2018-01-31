@@ -17,7 +17,11 @@ To prepare for your work on this project, do the following before you begin codi
   - constructor `CellularAutomata`
 
 ### Phase 2
-Complete the TODOs in the `setRuleNumber` and the `show` methods.
+Complete the TODOs in these methods:
+- `setRuleNumber`
+- `show`
+- `getRulePatternAsString`
+- `getRulePatternAsArray`
 
 Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
 
