@@ -23,7 +23,6 @@ Complete the TODOs in these methods:
 - `getRulePatternAsString`
 - `getRulePatternAsArray`
 
-Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
+### Phase 3
 
-Fork this repo, and paste your code into the .pde file in your copy of the repo.
-
+~~Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!~~
