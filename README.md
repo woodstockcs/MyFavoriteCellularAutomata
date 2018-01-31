@@ -13,11 +13,11 @@ To prepare for your work on this project, do the following before you begin codi
 ## Coding
 ### Phase 1
 - Have you finished all the steps listed in _Background_ above? If yes, then grab the starter code [here](https://raw.githubusercontent.com/woodstockcs/MyFavoriteCellularAutomata/master/MyFavoriteCellularAutomata.pde) and paste it into a new sketch in Processing.
-- Complete the TODOs in the following methods, making sure to read any javadoc comments above the method headers:
+- Complete the TODOs in the following method, making sure to read any javadoc comments above the method headers:
   - constructor `CellularAutomata`
 
 ### Phase 2
-Complete the TODOs in these methods:
+Complete the TODOs in these methods, making sure to read any javadoc comments above the method headers:
 - `setRuleNumber`
 - `show`
 - `getRulePatternAsString`
