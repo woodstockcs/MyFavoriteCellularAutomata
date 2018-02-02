@@ -25,4 +25,6 @@ Complete the TODOs in these methods, making sure to read any javadoc comments ab
 
 ### Phase 3
 
-~~Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!~~
+Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
+
+**When you have a fully functioning sketch, fork this repo and paste your code into the `.pde` file.**
