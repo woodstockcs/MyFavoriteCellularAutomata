@@ -27,4 +27,29 @@ Complete the TODOs in these methods, making sure to read any javadoc comments ab
 
 Search the file for all of remaining comments starting with `//TODO` and complete each of those actions. Methods that you will work on have full javadoc comments above the method header -- *read those carefully*!
 
-**When you have a fully functioning sketch, fork this repo and paste your code into the `.pde` file.**
+### Phase 4
+
+At this point you should have a fully functioning sketch, which shows a Cellular Automata with the Rule Number and cell-size based on the variables initialized in your `setup()` function.
+
+Now it's time to make your CA look a little different from everyone else's. Adapt the drawing parts of your code to make it draw the CA in a way you like. Think about using an ellipse, or randomize the squares to shift their locations a bit, or change their sizes based on the row they are in.
+
+BUT HERE'S THE CATCH --> You're designing for the laser cutter, which cannot print colors. So ...
+
+For `stroke(...)` you are limited to at most these three colors:
+- red = (255, 0, 0) = cut through the wood
+- blue = (0, 0, 255) = shallow etching in the wood
+- black = (0, 0, 0) = (0) = deep etching in the wood
+
+For `fill(...)` these are the constraints:
+- red = must be `noFill()` because these are cut lines
+- blue = optionally use `fill(0, 0, 255)` to fill in the etching in the wood
+- black = optionally use `fill(0)` to fill in the etching in the wood
+
+When you like the way your CA looks, look at the definition of the `keyPressed()` function at the bottom of your code. Figure out what you need to do in order to save a picture of your CA. Then find that file (called `output.svg`) in your sketch folder. 
+
+Fork this repo, then click the `Upload files` button and upload your svg file into your copy of the repo.
+
+Finally, in the `MyFavoriteCellularAutomata.pde` file of your new repo, replace the starter code with your code.
+
+
+
